@@ -1,0 +1,9 @@
+ibas.businessobjectsenterprise.service-0.0.1.war
+ibas.businessone.service-0.0.1.war
+ibas.documents.service-0.0.1.war
+ibas.importexport.service-0.0.1.war
+ibas.initialfantasy.service-0.0.1.war
+ibas.integration.service-0.0.1.war
+ibas.materials.service-0.0.1.war
+ibas.reportanalysis.service-0.0.1.war
+ibas.root.service-0.0.1.war
